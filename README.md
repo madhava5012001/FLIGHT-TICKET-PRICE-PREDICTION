@@ -43,7 +43,7 @@ link : https://hub.docker.com/repository/docker/rohanbagulwar/flight_finalapi
 </pre>
 
 ## HLD , LLD & WireFrame
-link : https://drive.google.com/drive/folders/1S3Ij3Sw2LRjYfrC1WaC8L6gfAg_96Dvy
-
+HLD link : https://drive.google.com/file/d/1DqnfRBwvHQCHWX3tDFOJE6azbQ27uwMT/view?usp=sharing
+LLD link :https://drive.google.com/file/d/1Znj77TbfB-VmMLluWWz2wT2LMq-tyz19/view?usp=sharing
 ## Help Me Improve
 <p> Hello Reader if you find any bug please consider raising issue I will address them asap.</p>
