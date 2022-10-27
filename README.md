@@ -20,8 +20,6 @@
 <p> Link Heroku : https://flightfareestimatorapi1.herokuapp.com/ <br>
 App Service Application URL: http://flightfareestimator.azurewebsites.net</p>
 
-## Docker Link
-link : https://hub.docker.com/repository/docker/rohanbagulwar/flight_finalapi
 
 
 ## UserInterface
